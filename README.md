@@ -8,3 +8,6 @@ These projects follow the [roadmap.sh](https://roadmap.sh/projects?g=backend) **
    ![JS icon badge](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black)
 2. [**GitHub User Activity**](./projects/02-github-user-activity) [🔗](https://roadmap.sh/projects/github-user-activity)
    ![JS icon badge](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black)
+3. [**Expense Tracker**](./projects/03-expense-tracker) [🔗](https://roadmap.sh/projects/expense-tracker)
+   ![JS icon badge](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black)
+   ![NPM icon badge](https://img.shields.io/badge/--CB3837?logo=npm&logoColor=black)
