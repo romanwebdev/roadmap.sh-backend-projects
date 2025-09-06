@@ -11,3 +11,5 @@ These projects follow the [roadmap.sh](https://roadmap.sh/projects?g=backend) **
 3. [**Expense Tracker**](./projects/03-expense-tracker) [🔗](https://roadmap.sh/projects/expense-tracker)
    ![JS icon badge](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black)
    ![NPM icon badge](https://img.shields.io/badge/--CB3837?logo=npm&logoColor=black)
+4. [**Number Guessing Game**](./projects/04-number-guessing-game) [🔗](https://roadmap.sh/projects/number-guessing-game)
+   ![JS icon badge](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black)
