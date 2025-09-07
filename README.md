@@ -27,3 +27,8 @@ These projects follow the [roadmap.sh](https://roadmap.sh/projects?g=backend) **
    ![NodeJS icon badge](https://img.shields.io/badge/--6DA55F?logo=node.js&logoColor=black)
    ![Express.js icon badge](https://img.shields.io/badge/--000000?logo=express&logoColor=white)
    ![EJS icon badge](https://img.shields.io/badge/--a91e50?logo=ejs&logoColor=black)
+7. [**Weather API**](./projects/07-weather-api) [🔗](https://roadmap.sh/projects/weather-api-wrapper-service)
+   ![JS icon badge](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black)
+   ![NodeJS icon badge](https://img.shields.io/badge/--6DA55F?logo=node.js&logoColor=black)
+   ![Express.js icon badge](https://img.shields.io/badge/--000000?logo=express&logoColor=white)
+   ![Redis icon badge](https://img.shields.io/badge/--ff4438?logo=redis&logoColor=black)
