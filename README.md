@@ -32,3 +32,8 @@ These projects follow the [roadmap.sh](https://roadmap.sh/projects?g=backend) **
    ![NodeJS icon badge](https://img.shields.io/badge/--6DA55F?logo=node.js&logoColor=black)
    ![Express.js icon badge](https://img.shields.io/badge/--000000?logo=express&logoColor=white)
    ![Redis icon badge](https://img.shields.io/badge/--ff4438?logo=redis&logoColor=black)
+8. [**Blogging Platform API**](./projects/08-blogging-platform-api) [🔗](https://roadmap.sh/projects/blogging-platform-api)
+   ![JS icon badge](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black)
+   ![NodeJS icon badge](https://img.shields.io/badge/--6DA55F?logo=node.js&logoColor=black)
+   ![Express.js icon badge](https://img.shields.io/badge/--000000?logo=express&logoColor=white)
+   ![MongoDB icon badge](https://img.shields.io/badge/--4EA94B?logo=mongodb&logoColor=white)
