@@ -13,3 +13,7 @@ These projects follow the [roadmap.sh](https://roadmap.sh/projects?g=backend) **
    ![NPM icon badge](https://img.shields.io/badge/--CB3837?logo=npm&logoColor=black)
 4. [**Number Guessing Game**](./projects/04-number-guessing-game) [🔗](https://roadmap.sh/projects/number-guessing-game)
    ![JS icon badge](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black)
+5. [**Unit Converter**](./projects/05-unit-converter) [🔗](https://roadmap.sh/projects/unit-converter)
+   ![HTML5 icon badge](https://img.shields.io/badge/--e34f27?logo=html5&logoColor=black)
+   ![CSS icon badge](https://img.shields.io/badge/--1572B6?logo=css&logoColor=black)
+   ![JS icon badge](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black)

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Unit Converter</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Unit Converter</h1>
+      <nav>
+        <a class="active" href="./index.html">Length</a>
+        <a href="./weight.html">Weight</a>
+        <a href="./temperature.html">Temperature</a>
+      </nav>
+      <form method="POST" action="http://localhost:3000/convert" target="_self">
+        <div class="control">
+          <label for="length">Enter the length to convert:</label>
+          <input type="number" name="value" id="length" required />
+        </div>
+
+        <div class="control">
+          <label for="from">Unit to convert from:</label>
+          <select name="from" id="from">
+            <option value="millimeter">Millimeters</option>
+            <option value="centimeter">Centimeters</option>
+            <option value="meter">Meters</option>
+            <option value="kilometer">Kilometers</option>
+            <option value="inch">Inches</option>
+            <option value="foot">Foots</option>
+            <option value="yard">Yards</option>
+            <option value="mile">Miles</option>
+          </select>
+        </div>
+
+        <div class="control">
+          <label for="to">Unit to convert to:</label>
+          <select name="to" id="to">
+            <option value="millimeter">Millimeters</option>
+            <option value="centimeter">Centimeters</option>
+            <option value="meter">Meters</option>
+            <option value="kilometer">Kilometers</option>
+            <option value="inch">Inches</option>
+            <option value="foot">Foots</option>
+            <option value="yard">Yards</option>
+            <option value="mile">Miles</option>
+          </select>
+        </div>
+
+        <button type="submit">Convert</button>
+      </form>
+    </div>
+  </body>
+</html>
